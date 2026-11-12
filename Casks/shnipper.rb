@@ -1,9 +1,10 @@
 cask "shnipper" do
-  version "2026.10.22"
-  sha256 "374bb967f670178b06a7cc1fa6b987afc630267495fc123b489197f107209221"
+  version "2026.11.12"
+  sha256 "b4ad35fb7b113c13f7e5ab669efed26f89f6fd44edcfb7a979e86c32cdca2a89"
 
-  url "https://storage.googleapis.com/glambot-7--shnipper-downloads/by_version/2026.10.22/shnipper-macos-arm64.zip"
+  url "https://storage.googleapis.com/glambot-7--shnipper-downloads/by_version/2026.11.12/shnipper-macos-arm64.zip"
   name "Shnipper"
+  desc "Automated red carpet video booth that ships each guest a share-ready clip"
   homepage "https://shnipper.com"
 
   livecheck do
